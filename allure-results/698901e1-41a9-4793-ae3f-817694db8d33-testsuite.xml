@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1633671967920' stop='1633671972721'>
+    <name>demo calc app</name>
+    <title>demo calc app</title>
+    <test-cases>
+        <test-case start='1633671967921' status='passed' stop='1633671972720'>
+            <name>addition test</name>
+            <title>addition test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
